@@ -23,6 +23,9 @@ no screenshots yet
 ### Modders
 - Just-Mellow
 
+### Thanks to
+- wyndchyme
+
 # License
 
 
